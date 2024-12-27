@@ -1,6 +1,12 @@
 ## Hi there, I am Diego 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguerra11)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguerra11&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguerra11&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguerra11&show_icons=true&theme=transparent)
 <!--
 **diegoguerra11/diegoguerra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
